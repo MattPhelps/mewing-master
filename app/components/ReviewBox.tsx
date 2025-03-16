@@ -39,8 +39,8 @@ export default function ReviewBox() {
             <input type="radio" name="rating-4" className="mask mask-star-2 bg-yellow-400" />
             <input type="radio" name="rating-4" className="mask mask-star-2 bg-yellow-400" />
           </div>
-          <p className="text-sm">
-            <span className="font-bold">191</span> athletes know their number
+          <p className="text-xs">
+            <span className="font-bold">2,191</span> people can now mew perfectly
           </p>
         </div>
       </div>

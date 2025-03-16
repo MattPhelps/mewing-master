@@ -19,10 +19,10 @@ export default function Home() {
   return (
    <>
       <Hero />
-       {/* <Examples />  */}
+       {/* <Examples /> 
       <Comparison /> 
       <SingleReview />
-      <CTA />
+      <CTA />  */}
    </>
   );
   
